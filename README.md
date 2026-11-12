@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Muneeshwari! 👋
 
-<!--
-**ammu-git31/ammu-git31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year Electrical and Electronics Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Embedded Systems and Internet of Things (IoT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Programming: C, C++, Python
+- Microcontrollers: ESP32, Arduino
+- Embedded Systems
+- IoT and Sensor Interfacing
+- Tools: Arduino IDE, MATLAB, Git, GitHub
+
+## Projects
+### Smart EV Battery Monitoring Using ESP32
+- Simulated battery voltage and current monitoring
+- Power calculation and battery percentage estimation
+- OLED display
+- Low-voltage and overcurrent alerts using LED and buzzer
+
+🔗 [View Project & Wokwi Simulation](https://github.com/ammu-git31/embedded-iot-projects)
+
+## Career Interests
+- Embedded Systems
+- IoT Development
+- Firmware Development
+
+## Connect With Me
+📍 Tamil Nadu, India
